@@ -3,6 +3,7 @@
 ## Index
 
 [AST](content/ast.md) - Abstract Syntax Tree, a data tree containing unaltered syntactically valid representation of the users code
+[Parser](https://domenicquirl.github.io/blog/parsing-basics/) - Takes tokens from a lexer/tokenizer and turns them into a syntax tree
 
 ## Contributing
 
